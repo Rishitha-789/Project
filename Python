@@ -1,0 +1,13 @@
+my-data-science-project/
+├── data/
+│   └── sample_data.csv         # Your sample dataset
+├── notebooks/
+│   └── exploratory_analysis.ipynb  # Jupyter Notebook for detailed data exploration
+├── src/
+│   ├── __init__.py
+│   ├── data_processing.py      # Data cleaning and transformation functions
+│   ├── visualization.py        # Functions for plotting and data visualization
+│   └── modeling.py             # Model training and evaluation functions
+├── requirements.txt            # List of required Python packages
+└── main.py                     # Main script to execute the project pipeline
+
